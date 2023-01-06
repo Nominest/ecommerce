@@ -1,0 +1,18 @@
+.navbar ul {
+  list-style-type: none;
+  gap: 13px;
+}
+.navbar a {
+  text-decoration: none;
+  color: #4abeff;
+  border: 0.1px solid #4abeff;
+  border-radius: 20px;
+  padding: 10px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-right ul {
+  display: flex;
+}

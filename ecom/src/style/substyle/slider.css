@@ -1,0 +1,34 @@
+.slider {
+  display: flex;
+  justify-content: space-around;
+}
+.slider-left {
+  margin: 0;
+}
+.camera {
+  color: #4abeff;
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 140px;
+}
+button {
+  background-color: #ff8957;
+}
+.slider ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+.slider a {
+  text-decoration: none;
+  border-radius: 20px;
+  padding: 20px;
+}
+#shop {
+  background-color: #ff8957;
+  color: white;
+}
+#view {
+  color: #316887;
+  border: #316887 0.1px solid;
+}
