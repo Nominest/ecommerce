@@ -1,8 +1,8 @@
-.navbar ul {
+.nav-right ul {
   list-style-type: none;
   gap: 13px;
 }
-.navbar a {
+.nav-right a {
   text-decoration: none;
   color: #4abeff;
   border: 0.1px solid #4abeff;
@@ -15,4 +15,13 @@
 }
 .nav-right ul {
   display: flex;
+}
+.nav-left ul {
+  list-style-type: none;
+}
+.nav-left a {
+  text-decoration: none;
+  color: #4abeff;
+  font-size: 27px;
+  font-weight: 600;
 }
